@@ -1,5 +1,5 @@
 <div align="center">
-![Empress Employee Self Service](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 <h1 align="center">Empress Employee Self Service: Empower Your Workforce</h1>
 <p align="center">
 An innovative tool providing employees the autonomy to manage their HR-related information.
